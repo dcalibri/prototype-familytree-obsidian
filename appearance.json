@@ -1,0 +1,11 @@
+{
+  "cssTheme": "Retroma",
+  "theme": "moonstone",
+  "accentColor": "#e4d9c5",
+  "baseFontSize": 16,
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": [],
+  "interfaceFontFamily": "",
+  "textFontFamily": "Source Code Pro",
+  "nativeMenus": false
+}

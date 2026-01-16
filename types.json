@@ -1,0 +1,11 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Datebirth": "date",
+    "coordinate": "multitext",
+    "": "unknown",
+    "Children": "text"
+  }
+}
